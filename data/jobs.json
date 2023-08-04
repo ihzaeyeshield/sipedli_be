@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "front-end Developer",
+    "description": "dibutuhkan segera front end dev",
+    "companyId": 1,
+    "authorId": 1,
+    "jobType": "full time",
+    "createdAt": "10/11/1998",
+    "updatedAt": "11/11/1998"
+  },
+  {
+    "id": 2,
+    "title": "back-end Developer",
+    "description": "dibutuhkan segera back end dev",
+    "companyId": 2,
+    "authorId": 1,
+    "jobType": "full time",
+    "createdAt": "10/11/1998",
+    "updatedAt": "11/11/1998"
+  }
+]

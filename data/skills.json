@@ -1,0 +1,4 @@
+[
+  { "id": 1, "jobId": 1, "name": "javascript", "level": "beginner" },
+  { "id": 2, "jobId": 1, "name": "vue", "level": "beginner" }
+]

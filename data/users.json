@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "ihza",
+    "email": "ihza@gmail.com",
+    "password": "123",
+    "role": "admin",
+    "phoneNumber": "089523652573",
+    "address": "Rengel Tuban"
+  },
+  {
+    "id": 2,
+    "username": "emilia",
+    "email": "emilia@gmail.com",
+    "password": "123",
+    "role": "admin",
+    "phoneNumber": "089523652573",
+    "address": "Rengel Tuban"
+  }
+]

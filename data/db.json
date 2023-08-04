@@ -1,0 +1,66 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "front-end Developer",
+      "description": "dibutuhkan segera front end dev",
+      "companyId": 1,
+      "userId": 1,
+      "jobType": "full time",
+      "createdAt": "10/11/1998",
+      "updatedAt": "11/11/1998"
+    },
+    {
+      "id": 2,
+      "title": "back-end Developer",
+      "description": "dibutuhkan segera back end dev",
+      "companyId": 2,
+      "userId": 1,
+      "jobType": "full time",
+      "createdAt": "10/11/1998",
+      "updatedAt": "11/11/1998"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Linguo go information technologies and services",
+      "companyLogo": "https://images.glints.com/unsafe/160x0/glints-dashboard.s3.amazonaws.com/company-logo/29e89150e7f76a55afe24fd6c5722901.jpeg",
+      "location": "Jakarta Selatan",
+      "email": "LinguoGo@gmail.com",
+      "description": "In service of one stop localization solution to overcome language barriers and broaden your horizon. Our worldwide team of dedicated in-house linguists, passionate freelancers and loyal project managers will ensure the best quality & on-time delivery."
+    },
+    {
+      "id": 2,
+      "name": "linling",
+      "companyLogo": "https://images.glints.com/unsafe/160x0/glints-dashboard.s3.amazonaws.com/company-logo/29e89150e7f76a55afe24fd6c5722901.jpeg",
+      "location": "Jakarta Selatan",
+      "email": "LinguoGo@gmail.com",
+      "description": "In service of one stop localization solution to overcome language barriers and broaden your horizon. Our worldwide team of dedicated in-house linguists, passionate freelancers and loyal project managers will ensure the best quality & on-time delivery."
+    }
+  ],
+  "skills": [
+    { "id": 1, "jobId": 1, "name": "javascript", "level": "beginner" },
+    { "id": 2, "jobId": 1, "name": "vue", "level": "beginner" }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "ihza",
+      "email": "ihza@gmail.com",
+      "password": "123",
+      "role": "admin",
+      "phoneNumber": "089523652573",
+      "address": "Rengel Tuban"
+    },
+    {
+      "id": 2,
+      "username": "emilia",
+      "email": "emilia@gmail.com",
+      "password": "123",
+      "role": "admin",
+      "phoneNumber": "089523652573",
+      "address": "Rengel Tuban"
+    }
+  ]
+}
